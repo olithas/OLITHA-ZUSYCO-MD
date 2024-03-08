@@ -18,11 +18,22 @@ Creator : @darkmakerofc , @mr-nima-x
 module.exports = {
   OWNER_NUMBER: "94720494690",
   SUDO_NUMBERS : "94740786273,94720494690",
-  OWNER_NAME: "『 MR OLITHA 』",
+  OWNER_NAME: "MR OLITHA",
   BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
+    ALIVE: 'ʜɪ ᴡᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ɪᴍ ᴀʟɪᴠᴇ ɴᴏᴡ  👋
+
+*ＢＯＴ ＯＷＮＥＲ  👇*
+ᴍʀ. ᴏʟɪᴛʜᴀ ᴊᴇᴇᴡᴀɴᴛʜᴀ  🔥
+
+*ＯＷＮＥＲ ＮＵＭＢＥＲ  👇*
+*+94 72 049 4690*  😇 
+
+*thanks for using*  🤭
+
+*ＦＡＬＬＯＷ  ＭＥ ＵＳ* 👇
+https://www.tiktok.com/@unix_boy',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
