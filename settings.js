@@ -11,7 +11,7 @@
 
 
 Project Name : ZUSYCO - MD
-Creator : @darkmakerofc , @mr-nima-x 
+Creator : @darkmakerofc , @MR OLITHA-x 
 
 */
 
@@ -19,21 +19,10 @@ module.exports = {
   OWNER_NUMBER: "94720494690",
   SUDO_NUMBERS : "94740786273,94720494690",
   OWNER_NAME: "MR OLITHA",
-  BOT_NAME : "ＺＵＳＹＣＯ",
+  BOT_NAME : "𝙽𝙸𝙺𝙾 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'ʜɪ ᴡᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ɪᴍ ᴀʟɪᴠᴇ ɴᴏᴡ  👋
-
-*ＢＯＴ ＯＷＮＥＲ  👇*
-ᴍʀ. ᴏʟɪᴛʜᴀ ᴊᴇᴇᴡᴀɴᴛʜᴀ  🔥
-
-*ＯＷＮＥＲ ＮＵＭＢＥＲ  👇*
-*+94 72 049 4690*  😇 
-
-*thanks for using*  🤭
-
-*ＦＡＬＬＯＷ  ＭＥ ＵＳ* 👇
-https://www.tiktok.com/@unix_boy',
+    ALIVE: '𝙃𝙄 𝙒𝘼𝙏𝙎𝘼𝙋𝙋 𝙐𝙎𝙀𝙍 𝙄𝙈 𝘼𝙇𝙄𝙑𝙀 𝙉𝙊𝙒 👋',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
@@ -61,7 +50,7 @@ https://www.tiktok.com/@unix_boy',
   READ : {
      ALL_MESSAGES : true,
      ONLY_COMMANDS : false,
-     STATUS : false,
+     STATUS : true,
   },
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
