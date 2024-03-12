@@ -18,8 +18,8 @@ Creator : @darkmakerofc , @MR OLITHA-x
 module.exports = {
   OWNER_NUMBER: "94720494690",
   SUDO_NUMBERS : "94740786273,94720494690",
-  OWNER_NAME: "MR OLITHA",
-  BOT_NAME : "𝙽𝙸𝙺𝙾 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻",
+  OWNER_NAME: " ＯＬＩＴＨＡ ＪＥＥＷＡＮＴＨＡ ",
+  BOT_NAME : " 𝙐𝙉𝙄𝙓 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇 ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: '𝙃𝙄 𝙒𝘼𝙏𝙎𝘼𝙋𝙋 𝙐𝙎𝙀𝙍 𝙄𝙈 𝘼𝙇𝙄𝙑𝙀 𝙉𝙊𝙒 👋',
@@ -36,7 +36,7 @@ module.exports = {
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
-  STICKER_PACK : '[ ZUSYCO ]',
+  STICKER_PACK : '[ 𝚞𝚗𝚒𝚡 ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
@@ -55,7 +55,7 @@ module.exports = {
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
   AUTO_REACT : true,
-  OWNER_REACT : '🤵‍♂️',
+  OWNER_REACT : '💀',
   AUTO_BGM : false,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
