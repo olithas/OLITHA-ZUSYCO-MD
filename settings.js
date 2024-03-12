@@ -18,8 +18,8 @@ Creator : @darkmakerofc , @MR OLITHA-x
 module.exports = {
   OWNER_NUMBER: "94720494690",
   SUDO_NUMBERS : "94740786273,94720494690",
-  OWNER_NAME: "ＯＬＩＴＨＡ ＪＥＥＷＡＮＴＨＡ",
-  BOT_NAME : "𝙐𝙉𝙄𝙓 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇",
+  OWNER_NAME: "OLITHA JEEWANTHA",
+  BOT_NAME : "UNIX OFFICIAL",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: '𝙃𝙄 𝙒𝘼𝙏𝙎𝘼𝙋𝙋 𝙐𝙎𝙀𝙍 𝙄𝙈 𝘼𝙇𝙄𝙑𝙀 𝙉𝙊𝙒 👋',
@@ -30,7 +30,7 @@ module.exports = {
         WELCOME_MESSAGE : true,
         GOODBYE_MESSAGE : true 
     },
-  DESABLE_WELCOME_GOODBYE_JIDS : [false],
+  DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
