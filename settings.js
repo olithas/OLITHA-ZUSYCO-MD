@@ -11,15 +11,15 @@
 
 
 Project Name : ZUSYCO - MD
-Creator : @darkmakerofc , @MR OLITHA-x 
+Creator : @darkmakerofc , @mr nima-x 
 
 */
 
 module.exports = {
   OWNER_NUMBER: "94720494690",
   SUDO_NUMBERS : "94740786273,94720494690",
-  OWNER_NAME: "OLITHA JEEWANTHA",
-  BOT_NAME : "UNIX OFFICIAL",
+  OWNER_NAME: " MR DISS ",
+  BOT_NAME : " UNIX OFFICIAL ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: '𝙃𝙄 𝙒𝘼𝙏𝙎𝘼𝙋𝙋 𝙐𝙎𝙀𝙍 𝙄𝙈 𝘼𝙇𝙄𝙑𝙀 𝙉𝙊𝙒 👋',
@@ -78,6 +78,6 @@ module.exports = {
     "agei" : "https://i.ibb.co/yqk8QQ9/agei.webp",
     "ne" : "https://i.ibb.co/N6Wb6mZ/ne.webp",
   },
-  LOAD_ANIMATION : false,
+  LOAD_ANIMATION : true,
  
 };
