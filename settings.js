@@ -18,11 +18,11 @@ Creator : @darkmakerofc , @mr nima-x
 module.exports = {
   OWNER_NUMBER: "94720494690",
   SUDO_NUMBERS : "94740786273,94720494690",
-  OWNER_NAME: " MR DISS ",
-  BOT_NAME : " UNIX OFFICIAL ",
+  OWNER_NAME: "MR DANUWA",
+  BOT_NAME : "DANUWA OFC",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: '𝙃𝙄 𝙒𝘼𝙏𝙎𝘼𝙋𝙋 𝙐𝙎𝙀𝙍 𝙄𝙈 𝘼𝙇𝙄𝙑𝙀 𝙉𝙊𝙒 👋',
+    ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
@@ -55,7 +55,7 @@ module.exports = {
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
   AUTO_REACT : true,
-  OWNER_REACT : '💀',
+  OWNER_REACT : '🤵',
   AUTO_BGM : false,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
