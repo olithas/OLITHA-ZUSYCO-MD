@@ -18,8 +18,8 @@ Creator : @darkmakerofc , @mr nima-x
 module.exports = {
   OWNER_NUMBER: "94720494690",
   SUDO_NUMBERS : "94740786273,94720494690",
-  OWNER_NAME: "MR DANUWA",
-  BOT_NAME : "DANUWA OFC",
+  OWNER_NAME: "𝗠𝗥 𝗗𝗔𝗥𝗞 𝗢𝗟𝗜𝗧𝗛𝗔",
+  BOT_NAME : "𝗢𝗟𝗜𝗧𝗛𝗔 𝚳𝐃 3 𝛁",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
@@ -78,6 +78,6 @@ module.exports = {
     "agei" : "https://i.ibb.co/yqk8QQ9/agei.webp",
     "ne" : "https://i.ibb.co/N6Wb6mZ/ne.webp",
   },
-  LOAD_ANIMATION : true,
+  LOAD_ANIMATION : false,
  
 };
