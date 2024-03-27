@@ -16,13 +16,13 @@ Creator : @darkmakerofc , @mr nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94720494690",
+  OWNER_NUMBER: "94720494690,94710791915",
   SUDO_NUMBERS : "94740786273,94720494690",
-  OWNER_NAME: "𝗠𝗥 𝗗𝗔𝗥𝗞 𝗢𝗟𝗜𝗧𝗛𝗔",
-  BOT_NAME : "𝗢𝗟𝗜𝗧𝗛𝗔 𝚳𝐃 3 𝛁",
+  OWNER_NAME: "𝗖𝗬𝗕𝗘𝗥 𝗦𝗖𝗥𝗔𝗣𝗬",
+  BOT_NAME : "𝗦𝗖𝗥𝗔𝗣𝗬 𝚳𝐃 3 𝛁",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://telegra.ph/file/677b358ee81956a80753e.jpg',
+    ALIVE: 'https://telegra.ph/file/15632c7d0faaef320ba12.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
@@ -55,7 +55,7 @@ module.exports = {
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
   AUTO_REACT : true,
-  OWNER_REACT : '💀',
+  OWNER_REACT : '😈',
   AUTO_BGM : false,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
