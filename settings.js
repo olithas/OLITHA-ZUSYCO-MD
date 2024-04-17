@@ -16,13 +16,13 @@ Creator : @darkmakerofc , @mr nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94784942571,94789388496",
+  OWNER_NUMBER: "94712959440,94789388496",
   SUDO_NUMBERS : "94789388496,94720494690",
-  OWNER_NAME: "𝗗𝗜𝗦𝗦 𝗢𝗙𝗖",
+  OWNER_NAME: "𝗠𝗥 𝗭𝗢𝗥𝗢𝗥𝗥",
   BOT_NAME : "𝗢𝗟𝗜𝗧𝗛𝗔 𝚳𝐃 3 𝛁",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://telegra.ph/file/72b5a6d0a1135ea540ca0.jpg',
+    ALIVE: 'https://telegra.ph/file/2cff9a4027d8ffb0a5f93.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
