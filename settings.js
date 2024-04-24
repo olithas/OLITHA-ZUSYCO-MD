@@ -16,13 +16,13 @@ Creator : @darkmakerofc , @mr nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94712959440,94789388496",
-  SUDO_NUMBERS : "94789388496,94720494690",
-  OWNER_NAME: "𝗠𝗥 𝗭𝗢𝗥𝗢𝗥𝗥",
-  BOT_NAME : "𝗢𝗟𝗜𝗧𝗛𝗔 𝚳𝐃 3 𝛁",
+  OWNER_NUMBER: "94712959440,94766158179",
+  SUDO_NUMBERS: "94789388496,94720494690",
+  OWNER_NAME: "𝙈𝙍 𝙕𝙊𝙍𝙊𝙍",
+  BOT_NAME : "𝗭𝗢𝗥𝗢𝗥 𝚳𝐃 3 𝛁",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://telegra.ph/file/2cff9a4027d8ffb0a5f93.jpg',
+    ALIVE: 'https://telegra.ph/file/377f828a804c3e42395d0.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
@@ -33,7 +33,7 @@ module.exports = {
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
   WORK_TYPE : "onlygroups",
-  WORK_MODE : "private",
+  WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
   STICKER_PACK : '[ 𝚞𝚗𝚒𝚡 ]',
@@ -55,7 +55,7 @@ module.exports = {
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
   AUTO_REACT : true,
-  OWNER_REACT : '🔥',
+  OWNER_REACT : '💀',
   AUTO_BGM : false,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
